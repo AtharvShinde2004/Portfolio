@@ -10,15 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+"
+    "url": "git+https://github.com/AtharvShinde2004/portfolio"
   },
   "keywords": [],
   "author": "Atharv Shinde",
   "license": "ISC",
-  "bugs": {
-    "url": ""
-  },
-  "homepage": "",
+  "homepage": "https://github.com/AtharvShinde2004/portfolio#readme",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.8.2",
     "parcel": "^2.11.0",
